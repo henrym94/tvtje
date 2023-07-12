@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:7
+## Just In Time Delivered by Quortex Solution, version 3.0.1
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,AVERAGE-BANDWIDTH=3000000,RESOLUTION=1280x720,FRAME-RATE=25,CODECS="avc1.64001f,mp4a.40.2",AUDIO="audio-aaclc160"
+https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/video-1280x720p25-3000/index.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio-aaclc160",NAME="VO",LANGUAGE="eng",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://d11lnfpmek70tc.cloudfront.net/nlpo/clr-nlpo/2103d417/audio-eng-aaclc160/index.m3u8"
